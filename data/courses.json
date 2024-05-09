@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "img": "",
+        "name": "HTML",
+        "duration": "10 Days"
+    },
+    {
+        "id": "02",
+        "img": "",
+        "name": "CSS",
+        "duration": "10 Days"
+    },
+    {
+        "id": "03",
+        "img": "",
+        "name": "JavaScript",
+        "duration": "30 Days"
+    },
+    {
+        "id": "04",
+        "img": "",
+        "name": "React",
+        "duration": "60 Days"
+    },
+    {
+        "id": "05",
+        "img": "",
+        "name": "Next Js",
+        "duration": "60 Days"
+    },
+    {
+        "id": "06",
+        "img": "",
+        "name": "Mongo DB",
+        "duration": "15 Days"
+    }
+]
