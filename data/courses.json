@@ -1,38 +1,44 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "img": "",
         "name": "HTML",
-        "duration": "10 Days"
+        "duration": "10 Days",
+        "details": "details..."
     },
     {
-        "id": "02",
+        "id": "2",
         "img": "",
         "name": "CSS",
-        "duration": "10 Days"
+        "duration": "10 Days",
+        "details": "details..."
     },
     {
-        "id": "03",
+        "id": "3",
         "img": "",
         "name": "JavaScript",
-        "duration": "30 Days"
+        "duration": "30 Days",
+        "details": "details..."
     },
     {
-        "id": "04",
+        "id": "4",
         "img": "",
         "name": "React",
-        "duration": "60 Days"
+        "duration": "60 Days",
+        "details": "details..."
     },
     {
-        "id": "05",
+        "id": "5",
         "img": "",
         "name": "Next Js",
-        "duration": "60 Days"
+        "duration": "60 Days",
+        "details": "details..."
     },
     {
-        "id": "06",
+        "id": "6",
         "img": "",
         "name": "Mongo DB",
-        "duration": "15 Days"
+        "duration": "15 Days",
+        "details": "details..."
     }
 ]
